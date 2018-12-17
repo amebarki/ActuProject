@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ActuProject</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="actu_content_desc">content description</string>
+
+    <string name="signup_name">Nom</string>
+    <string name="signup_mail">Adresse Mail</string>
+    <string name="signup_telephone">Téléphone</string>
+    <string name="signup_validate">M\'inscrire</string>
+    <string name="menu_actu">Actus</string>
+    <string name="menu_ifo">infos</string>
+    <string name="menu_signup">Inscription</string>
+
+</resources>

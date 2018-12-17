@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/actuFragment" android:icon="@drawable/ic_launcher_background" android:title="@string/menu_actu"/>
+    <item android:id="@+id/infoFragment" android:icon="@drawable/ic_launcher_background" android:title="@string/menu_ifo"/>
+    <item android:id="@+id/signUpFragment" android:icon="@drawable/ic_launcher_background" android:title="@string/menu_signup"/>
+</menu>
